@@ -1,5 +1,10 @@
 #! usr/bin/env python3
+"""
+Takes a term and determines if it is a closed-class word or if its
+inflections indicate that it is very likely a noun, adjective, adverb, or verb
 
+Copyright Steve Harris, UMass Amherst 2022
+"""
 
 def get_pos(term):
     import re
