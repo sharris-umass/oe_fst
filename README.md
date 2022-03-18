@@ -1,7 +1,7 @@
 # **Old English Nouns**
 ___
 
-AIM: Improved parsing of Old English nouns and noun phrases.
+AIM: NLP parser of Old English.
 
 TAKES: a sentence in Old English \
 RETURNS: all nouns
