@@ -11,7 +11,7 @@ Description of Files
 ---
 
 **Glossaries**.
-<ul>The files beginning with `data_` are taken from the main dictionaries of Old English. \
+<ul>The files beginning with `data_` are taken from the main dictionaries of Old English. <br>
 Each entry in the JSON array comprises the OE lexeme (that is, the dictionary entry) and its most likely part of speech (POS).
 
 For example, the entry `"witscipe" : "NOUN m"`
@@ -22,11 +22,11 @@ The OE word *witscipe* 'knowledge, evidence' is the KEY. The part of speech is t
 **Word Lists**.
 <ul>
 The following files were culled from the glossaries, and all nouns put into one files, all adjectives into another, and so on:
-1. lemmas.txt (all words in dictionary form)
-2. nouns.txt
-3. prefixes.txt
-4. suffixes.txt
-5. verbs.txt
+  <li>1. lemmas.txt (all words in dictionary form)</li>
+<li>2. nouns.txt</li>
+<li>3. prefixes.txt</li>
+<li>4. suffixes.txt</li>
+<li>5. verbs.txt</li>
 </ul>
 
 Design
