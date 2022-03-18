@@ -4,7 +4,7 @@ ___
 AIM: NLP parser of Old English.
 
 TAKES: a sentence in Old English \
-RETURNS: all nouns
+RETURNS: list of words with grammatical tags
 
 
 Description of Files
